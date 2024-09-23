@@ -1,2 +1,2 @@
 hanyang
-hanyang university
+university
